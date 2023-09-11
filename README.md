@@ -20,7 +20,7 @@ To run this application locally, follow these steps:
    git clone https://github.com/Shweta2678/git-repo-assignment
 2. Navigate to the project folder: 
    
-    cd github-repo-app
+    cd github-repo-application
 
 3. Install dependencies:
 
